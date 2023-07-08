@@ -1,3 +1,5 @@
+
+<!--
 ### hey there 
 <a href="https://www.instagram.com/sivapraveenr.noskillguy/">
   <img align="left" alt="NoSkillGuy's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -8,17 +10,24 @@
 <a href="https://www.linkedin.com/in/siva-praveen-b9656725/">
   <img align="left" alt="NoSkillGuy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NoSkillGuy.NoSkillGuy)
 
 <br />
 
 
-📈 my github stats
+📈 my Github stats
 
+<!--
 [![NoSkillGuy github streak](https://github-readme-streak-stats.herokuapp.com/?user=NoSkillGuy&theme=blue-green)](https://github.com/NoSkillGuy/github-readme-streak-stats)
+-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoSkillGuy&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NoSkillGuy&show_icons=true&theme=gotham" alt="NoSkillGuy" />
+-->
 
 
 
